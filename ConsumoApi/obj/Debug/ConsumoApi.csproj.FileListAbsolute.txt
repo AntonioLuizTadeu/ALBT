@@ -1,0 +1,9 @@
+c:\users\carlos\documents\visual studio 2015\Projects\ExemploApi\ConsumoApi\bin\Debug\ConsumoApi.dll
+c:\users\carlos\documents\visual studio 2015\Projects\ExemploApi\ConsumoApi\bin\Debug\ConsumoApi.pdb
+c:\users\carlos\documents\visual studio 2015\Projects\ExemploApi\ConsumoApi\obj\Debug\ConsumoApi.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2015\Projects\ExemploApi\ConsumoApi\obj\Debug\ConsumoApi.dll
+c:\users\carlos\documents\visual studio 2015\Projects\ExemploApi\ConsumoApi\obj\Debug\ConsumoApi.pdb
+C:\Users\antonio.tadeu\Documents\Projetos\ExemploApi\ConsumoApi\bin\Debug\ConsumoApi.dll
+C:\Users\antonio.tadeu\Documents\Projetos\ExemploApi\ConsumoApi\bin\Debug\ConsumoApi.pdb
+C:\Users\antonio.tadeu\Documents\Projetos\ExemploApi\ConsumoApi\obj\Debug\ConsumoApi.dll
+C:\Users\antonio.tadeu\Documents\Projetos\ExemploApi\ConsumoApi\obj\Debug\ConsumoApi.pdb
